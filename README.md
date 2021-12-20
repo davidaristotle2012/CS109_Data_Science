@@ -3,4 +3,4 @@ In this Git repo, I have put my resources from [Harvard's 2015 CS109 class](http
 
 ## Summary of Lectures and Labs (In Progress)
 
-Can be found [here](https://github.com/davidaristotle2012/CS109_Data_Science/blob/main/Summary%20of%20CS109.pdf)
+My notes can be found [here](https://github.com/davidaristotle2012/CS109_Data_Science/blob/main/Summary%20of%20CS109.pdf)
