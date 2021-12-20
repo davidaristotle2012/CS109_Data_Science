@@ -1,1 +1,0 @@
-going through lab 1 notes

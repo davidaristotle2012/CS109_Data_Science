@@ -1,0 +1,6 @@
+1. https://www.openintro.org/book/stat/
+2. Introduction to Statistical Learning
+3. Elements of Statistical Learning, by Friedman, Tibshirani, and Hastie. 
+(Measure Theoretic Probability, and other prereqs)
+
+If you reach 3. you are a master of the stats

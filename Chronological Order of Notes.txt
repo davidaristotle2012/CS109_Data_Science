@@ -1,0 +1,12 @@
+Chronology of Notes taken. In different folders...
+Key:
+Lab=La Lecture=Le SelfStudy=SS
+
+1. Lab1-pythonpandas La
+2. 02-DataScraping Le
+3. lambda_for_is_in_functions SS
+4. Classes_and_Objects SS 
+5. Lab2
+6. Lecture 4_pandas and SQL
+7. Lecture 5-10 no notebook
+we skipped homeworks and labs temporarily
